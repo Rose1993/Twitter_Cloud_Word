@@ -1,0 +1,13 @@
+django
+gunicorn
+django-heroku
+tweepy
+pandas
+flask
+bs4
+nltk
+wordcloud
+matplotlib
+waitress
+beautifulsoup4
+lxml
