@@ -4,7 +4,7 @@ appdirs==1.4.4
 applaunchservices==0.2.1
 appnope==0.1.2
 appscript==1.1.2
-argh==0.26.2
+argh==21.2.0
 argon2-cffi==2.20
 asn1crypto==1.4.0
 astroid==2.5
